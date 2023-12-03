@@ -64,7 +64,7 @@ Before you begin, ensure you have met the following requirements:
   ```
 2. Navigate to the project directory:
   ```bash
-  cd technokids
+  cd technokids-main
   ```
 3. Install dependencies:
   ```bash
