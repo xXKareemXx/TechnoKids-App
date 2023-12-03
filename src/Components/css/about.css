@@ -1,0 +1,82 @@
+/* Sections */
+.sections{
+  margin-left: -40px;
+}
+.sections li {
+  display: flex;
+/*justify-content: center;*/
+  border: 0px solid #ddd;
+  padding: 10px;
+}
+.sections h2 {
+  font-size: 25px;
+  font-weight: bold;
+/*border: 1px solid #ddd;*/
+  text-align: center;
+  margin: 20px;
+  margin-top: 30px;
+/*width: 500px;*/
+/*background-color: azure;*/
+}
+.sections p {
+  text-align: justify;
+  font-size: 15px;
+  line-height: 1.5;
+  /*  border: 1px solid #ddd;*/
+  border: 3px slid #ddd;
+  margin: 40px;
+}
+
+.section2 {
+    background-color: #b2cc99;
+}
+.section1 {
+  background-color:rgba(245, 186, 115, 0.534);
+}
+.section3 {
+  background-color:rgba(245, 186, 115, 0.534);
+}
+
+
+/* Meet our instructors */
+.instructors {
+  display: flex;
+  justify-content: center;
+  margin-left: 35px;
+}
+
+.instructor {
+  width: 300px;
+  margin: 20px;
+  text-align: center;
+}
+
+.instructor img {
+  width: 100%;
+/*  height: auto;*/
+  margin-bottom: 10px;
+  border-radius: 50%;
+}
+
+.instructor p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+  text-align: center;   
+  background-color:rgba(129, 234, 234, 0.607);
+}
+
+.instructor strong {
+  font-size: 25px;  
+}
+
+@media only screen and (max-width: 650px) {
+  .instructors {
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+  }
+  
+}
+
+/*...*/

@@ -1,0 +1,43 @@
+li {
+    margin: 5px 0; /* Add space between list items */
+  }
+  
+  a {
+    font-size: 14px;  /* Decrease default font size */
+    padding: 5px 10px;  /* Add padding to make click target larger */
+  }
+  
+  /* Active link */
+  .active {
+    font-weight: bold;
+  }
+
+  @media screen and (max-width: 500px) {
+    a {
+      font-size: 15px !important; /* Even smaller font size on mobile */
+      padding: 4px 10px !important; /* Adjust padding */  
+      margin: 10px 2px !important;
+    }
+    li{
+        padding: 4px 4px /* Adjust padding */   !important;
+      margin: 10px 2px !important;
+    }
+
+ 
+  }
+
+ 
+  @media screen and (max-width: 400px) {
+    a {
+      font-size: 13px !important; /* Even smaller font size on mobile */
+      padding: 4px 7px !important; /* Adjust padding */  
+      margin: 10px 2px !important;
+    }
+    li{
+        padding: 4px 4px /* Adjust padding */   !important;
+      margin: 10px 2px !important;
+    }
+}
+
+    
+ 

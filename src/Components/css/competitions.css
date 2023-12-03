@@ -1,0 +1,44 @@
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  /* Competition styles */
+  .competition {
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  .competition img {
+    width: 300px;
+    height: 280px;
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+  .competition h3 {
+    margin-top: 0;
+  }
+  .competition p {
+    margin-bottom: 0;
+  }
