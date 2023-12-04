@@ -9,7 +9,7 @@ TechnoKids is a website project aimed at providing a platform for kids to explor
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Deployment Website](#website)
+- [Deployment Website](#deployment-website)
 
 ## Project Overview
 
