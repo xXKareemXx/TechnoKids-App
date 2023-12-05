@@ -2,7 +2,7 @@
 
 TechnoKids is a website project aimed at providing a platform for kids to explore the world of robotics, programming, and participate in exciting competitions. This README file serves as a guide to understand the project and its components.
 
-!![Alt text](file:///Users/aakram/Desktop/TechnoKids.png)
+<img width="1327" alt="TechnoKids" src="https://github.com/xXKareemXx/TechnoKids-App/assets/61750924/50841f3f-b9b0-438c-9af9-8af6ce4eb097">
 
 # Deployment Website
 
