@@ -2,6 +2,12 @@
 
 TechnoKids is a website project aimed at providing a platform for kids to explore the world of robotics, programming, and participate in exciting competitions. This README file serves as a guide to understand the project and its components.
 
+![Uploading TechnoKids.png…]()
+
+# Deployment Website
+
+https://kareem-technokids-app.vercel.app/
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -9,7 +15,6 @@ TechnoKids is a website project aimed at providing a platform for kids to explor
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Deployment Website](#deployment-website)
 
 ## Project Overview
 
@@ -83,8 +88,3 @@ Before you begin, ensure you have met the following requirements:
   npm start
   ```
 3. Open your web browser and access the TechnoKids website at http://localhost:3000.
-
-# Deployment Website
-
-Check my deployment website, and don't forget to check my LinkedIn profile also from the footer section 😄. <br>
-https://kareem-technokids-app.vercel.app/
