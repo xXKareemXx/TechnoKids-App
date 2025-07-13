@@ -1,6 +1,6 @@
 # TechnoKids - Kids' Robotics and Programming Courses
 
-TechnoKids is a website project aimed at providing a platform for kids to explore the world of robotics, programming, and participate in exciting competitions. This README file serves as a guide to understand the project and its components. Here is the deployment website https://kareem-technokids-app.vercel.app/.
+TechnoKids is a website project aimed at providing a platform for kids to explore the world of robotics, programming, and participate in exciting competitions. This README file serves as a guide to understand the project and its components. The link to the website is in the description!
 
 <img width="1327" alt="TechnoKids" src="https://github.com/xXKareemXx/TechnoKids-App/assets/61750924/50841f3f-b9b0-438c-9af9-8af6ce4eb097">
 
@@ -27,11 +27,11 @@ Key features of the website include:
 
 ## Features
 
-- **Course Listings**: Browse and explore a variety of exciting competitions to challenge their skills and creativity. 
++ **Course Listings**: Browse and explore a variety of courses tailored to different skill levels and age groups.
 
-- **Competition Registration**: Register your child for robotics and programming courses that suitable for different age groups.
++ **Competition Registration**: Sign up for exciting challenges that help kids apply their coding and robotics skills.
 
-- **Interactive Learning**: Engage kids with interactive lessons and activities that make learning both educational and enjoyable.
+- **Interactive Learning**: Interactive lessons and activities designed to make learning both fun and educational.
 
 - **Responsive Design**: The website is designed to work seamlessly on desktop and mobile devices.
 
@@ -66,7 +66,7 @@ Before you begin, ensure you have met the following requirements:
   ```
 2. Navigate to the project directory:
   ```bash
-  cd technokids-main
+  cd TechnoKids
   ```
 3. Install dependencies:
   ```bash
